@@ -37,7 +37,7 @@ export function Navigation() {
           {/* Logo */}
           <div className="flex items-center gap-2">
             <img 
-              src="../src/Assest/appdost-logo.png"
+              src="../../src/Assest/appdost-logo.png"
               alt="AppDost Logo" 
               className="h-10"
             />
